@@ -16,7 +16,7 @@ function Inicio() {
             <S.Section>
             
             <S.Div1>
-                <h2>Olá, eu sou a Débora Carolina!!!</h2>
+                <h2>Olá, eu sou a Débora Carolina!</h2>
                 <h2>Venha me conhecer um pouco.</h2>
             </S.Div1>
             
