@@ -1,13 +1,11 @@
 import React from "react"
 
-function Sobre () {
-return (
-    <>
-        
-        <h2>Olá, Eu sou a Débora Carolina</h2>
-
-    </>
-)
+function Sobre() {
+    return (
+        <>
+        <h2>Olá eu sou o sobre</h2>
+        </>
+    )
 }
 
-export default Sobre
+export default Sobre;

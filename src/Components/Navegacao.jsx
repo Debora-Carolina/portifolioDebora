@@ -20,7 +20,6 @@ function Navegacao() {
                         <li> <Link to="/Galeria"> Galeria </Link> </li>
 
                     </S.Lista>
-
                 </S.Nav>
 
                 <Routes>
@@ -28,9 +27,8 @@ function Navegacao() {
                     <Route path="Sobre" element={<Sobre />} />
                     <Route path="Projetos" element={<Projetos />} />
                     <Route path="Galeria" element={<Galeria />} />
-
-
                 </Routes>
+
             </BrowserRouter>
         </S.Header>
 

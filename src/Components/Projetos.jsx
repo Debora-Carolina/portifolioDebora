@@ -4,7 +4,7 @@ function Projetos () {
 return (
     <>
         
-        <h2>Olá, Eu sou a Débora Carolina</h2>
+        <h2>Projetos</h2>
 
     </>
 )
