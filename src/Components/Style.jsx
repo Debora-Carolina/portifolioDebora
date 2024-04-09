@@ -220,3 +220,67 @@ export const DivCard3 =styled.div `
 
     }
 `
+
+//Estilização Projetos
+
+
+export const MainProjetos = styled.main`
+`
+
+
+export const DivProjetos = styled.div`
+    display: flex;
+    justify-content: space-around;
+    //border: solid red;
+    align-items: center;
+    margin-top: 20px;
+`
+
+export const SectionProjetos = styled.section`
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    //border: solid green;
+   
+    h2 {
+  text-align: center;
+  color: white;
+
+  }
+  
+`
+
+
+export const DivProjeto = styled.div`
+border: solid white 5px;
+border-radius: 50px;
+height: 70vh;
+width: 20vw;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-direction: column;
+margin-top: 50px;
+background-color: #D496A7;
+h2 { 
+  
+  background-color: #D496A7 ;
+  color: black;  
+  font-size: 1rem;
+}
+
+h3 { 
+  
+  background-color: #D496A7 ;
+  color: black;  
+  font-size: 0.5rem;
+
+  }
+
+
+  img{
+   width: 15vw;
+   height: 30vh;
+  }
+`
+

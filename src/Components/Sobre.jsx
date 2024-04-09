@@ -6,6 +6,7 @@ import Css from "../assets/css.png"
 import JavaSript from "../assets/javascript.png"
 import Html from "../assets/html.png"
 import Foco from "../assets/foco.png"
+import Santa from "../assets//santa-lucia.png"
 
 function Sobre() {
     return (
@@ -17,6 +18,12 @@ function Sobre() {
                 <h2>FORMAÇÃO</h2>
 
                 <S.Card>
+                    <S.DivCard>
+                        <h2> Administração de Empresas</h2>
+                        <h2> Jan/2007 - Dez/2010</h2>
+                        <img src={Santa} alt="Logo Santa" />
+                    </S.DivCard>
+                    
                     <S.DivCard>
                         <h2> Análise e Desenvolvimento de Sistemas</h2>
                         <h2> Jun/2022 - Dez/2024</h2>
